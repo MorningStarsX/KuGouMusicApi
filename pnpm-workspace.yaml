@@ -1,2 +1,4 @@
 minimumReleaseAgeExclude:
   - node-forge@1.4.1
+packages:
+  - .
